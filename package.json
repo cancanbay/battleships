@@ -1,0 +1,7 @@
+{
+  "name": "chatexamplenodejs",
+  "version": "0.0.0",
+  "dependencies": {
+    "ws": "*"
+  }
+}
